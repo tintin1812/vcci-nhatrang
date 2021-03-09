@@ -1,19 +1,29 @@
-name: jekyll-cd
+name: build with jekyll and deploy on github pages
 
 on:
-  push:
-    branches:
-      - master
+  push: 
+    branches: 
+      - main
+  pull_request:
+    branches: 
+      - main
 
 jobs:
-  build:
-
+  jekyll:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 🛎 Check out master
-        uses: actions/checkout@master
+      # checkout code
+      - uses: actions/checkout@v2
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v1
         with:
-          fetch-depth: 1
-      - name: 🧪 Build and deploy
-        uses: victoriadrake/jekyll-cd@master
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # use jekyll action from jekyll docs example
+      - uses:  helaili/jekyll-action@2.0.2
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
