@@ -7,7 +7,7 @@ related_posts:
 sub_heading: Phòng Thương Mại và Công Nghiệp Việt Nam tại Khánh Hòa
 tags: []
 layout: post
-banner_image: "/uploads/2021/03/09/vcci-la-gi.png"
+banner_image: "/uploads/2021/03/09/logo-vcci.jpg"
 
 ---
 Phòng Thương Mại và Công Nghiệp Việt Nam tại Khánh Hòa.
