@@ -13,6 +13,7 @@ menu:
   footer:
     identifier: _about
     weight: 3
+    title: Giới Thiệu
   navigation:
     identifier: _about
     weight: 2
