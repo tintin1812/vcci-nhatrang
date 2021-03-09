@@ -20,7 +20,7 @@ sub_heading: VCCI Khánh Hòa
 textline: | 
    Phòng Đại Diện Phòng Thương Mại Và Công Nghiệp Việt Nam Tại Khánh Hoà
 hero_button:
-  text: Learn more
+  text: Tìm hiểu thêm
   href: "/about"
 show_news: true
 menu:
