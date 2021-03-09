@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: VCCI Khánh Hòa
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,11 +16,9 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: VCCI Khánh Hòa
 textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+   Phòng Đại Diện Phòng Thương Mại Và Công Nghiệp Việt Nam Tại Khánh Hoà
 hero_button:
   text: Learn more
   href: "/about"

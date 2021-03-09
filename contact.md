@@ -12,7 +12,7 @@ menu:
 
 ---
 ## Hours of Operation
-Belkirk College of Engineering is available:
+VCCI Khánh Hòa is available:
 
 - **Monday-Friday**, 8:00am to 6:00pm EST
 - **Saturdays**, 8:00am to 5:00pm EST
