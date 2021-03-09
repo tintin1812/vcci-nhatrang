@@ -1,3 +1,11 @@
+asciidoc: {}
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  attributes:
+    - idseparator=_
+    - source-highlighter=coderay
+    - icons=font
 title: VCCI Khánh Hòa
 short_title: VCCI Khánh Hòa
 description: Jekyll demo for Forestry CMS
