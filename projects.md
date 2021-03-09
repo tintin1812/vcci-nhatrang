@@ -7,6 +7,7 @@ menu:
   navigation:
     identifier: _projects
     weight: 3
+    title: Dự án
   footer:
     identifier: _projects
     url: "/projects/"

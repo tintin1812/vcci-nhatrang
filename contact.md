@@ -9,6 +9,7 @@ menu:
   navigation:
     identifier: _contact
     weight: 5
+    title: Liên Hệ
 
 ---
 ## Hours of Operation
