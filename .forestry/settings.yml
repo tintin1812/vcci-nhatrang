@@ -9,7 +9,9 @@ sections:
   label: NhaTrang
   create: all
   match: "**/*"
+  new_doc_ext: nhatrang
   templates:
+  - landing-page
   - post
 - type: heading
   label: Content
