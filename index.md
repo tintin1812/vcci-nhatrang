@@ -17,8 +17,9 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: VCCI Khánh Hòa
-textline: | 
-   Phòng Đại Diện Phòng Thương Mại Và Công Nghiệp Việt Nam Tại Khánh Hoà
+textline: 'Phòng Đại Diện Phòng Thương Mại Và Công Nghiệp Việt Nam Tại Khánh Hoà
+
+'
 hero_button:
   text: Tìm hiểu thêm
   href: "/about"
@@ -27,4 +28,5 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
