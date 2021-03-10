@@ -10,13 +10,13 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  footer:
-    identifier: _about
-    weight: 3
-    title: Giới Thiệu
   navigation:
     identifier: _about
     weight: 2
+    title: Giới Thiệu
+  footer:
+    identifier: _about
+    weight: 3
     title: Giới Thiệu
 
 ---

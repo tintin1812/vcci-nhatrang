@@ -5,13 +5,13 @@ sub_heading: ''
 description: Articles by Belkirk College
 publish_date: '2017-11-01T03:00:00.000+00:00'
 menu:
-  navigation:
-    identifier: _posts
-    weight: 4
-    title: Bài Viết
   footer:
     identifier: _posts
     weight: 2
+    title: Bài Viết
+  navigation:
+    identifier: _posts
+    weight: 4
     title: Bài Viết
 
 ---

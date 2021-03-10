@@ -1,5 +1,5 @@
 ---
-phone: "0258 3878 063"
+phone: '0258 3878 063'
 email: vccikhanhhoa@gmail.com
 address_1: 'Địa chỉ cơ quan: Nhà A5, Chung cư số 2 Lê Hồng Phong, Nha Trang, Khánh
   Hòa'
@@ -9,3 +9,7 @@ state: Khánh Hòa
 postal_code: "650000"
 country: Việt Nam
 twitter: ''
+menu:
+  footer:
+    weight: 5
+    title: NSIC
