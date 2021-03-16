@@ -38,5 +38,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/2021-03-10-techfest-2020.md
