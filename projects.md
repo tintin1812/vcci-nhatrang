@@ -7,7 +7,7 @@ menu:
   navigation:
     identifier: _projects
     weight: 3
-    title: Hội viên
+    title: 'HỘI VIÊN '
   footer:
     identifier: _projects
     url: "/projects/"

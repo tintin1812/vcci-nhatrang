@@ -28,6 +28,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
-    title: Trang Chủ
+    title: TRANG CHỦ
 
 ---

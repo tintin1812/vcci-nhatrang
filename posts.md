@@ -9,9 +9,5 @@ menu:
     identifier: _posts
     weight: 2
     title: Bài Viết
-  navigation:
-    identifier: _posts
-    weight: 4
-    title: Bài Viết
 
 ---
