@@ -2,3 +2,6 @@
 footer:
 - weight: 4
   title: TT ƯƠM TẠO KNĐMST NHA TRANG
+navigation:
+- weight: 7
+  title: 'LIÊN HỆ '
