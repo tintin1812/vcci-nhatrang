@@ -33,13 +33,13 @@ Nâng cao năng lực cạnh tranh của cộng đồng doanh nghiệp thông qu
 
 Hoạt đồng vì sự phát triển bền vững của cộng đồng, doanh nghiệp và chính quyền địa phương.
 
-**Chức năng:**
+**CHỨC NĂNG**
 
 \- Đại diện để thúc đẩy và bảo vệ quyền lợi hợp pháp, chính đáng của cộng đồng doanh nghiệp và người sử dụng lao động tại khu vực Nam Trung Bộ trong các quan hệ trong nước và quốc tế.
 
 \- Thúc đẩy sự phát triển doanh nghiệp, doanh nhân, sự liên kết giữa các doanh nghiệp, hiệp hội doanh nghiệp, xúc tiến và hỗ trợ các hoạt động thương mại, đầu tư, hợp tác khoa học - công nghệ và các hoạt động kinh doanh khác của các doanh nghiệp trong nước và nước ngoài; xúc tiến, thúc đẩy xây dựng mối quan hệ lao động hài hòa trong các doanh nghiệp.
 
-**Hoạt động chính**
+**HOẠT ĐỘNG CHÍNH**
 
 1\. Cấp giấy chứng nhận xuất xứ (C/O)
 
