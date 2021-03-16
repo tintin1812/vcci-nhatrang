@@ -1,4 +1,4 @@
-[https://aonhub.com/vcci-nhatrang/](https://aonhub.com/vcci-nhatrang/)
+[https://vccikhanhhoa.com/](https://vccikhanhhoa.com/)
 
 [https://app.forestry.io/sites/4fugoj4uwjss5a](https://app.forestry.io/sites/4fugoj4uwjss5a)
 
