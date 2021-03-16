@@ -2,3 +2,7 @@
 footer:
 - weight: 4
   title: TT ƯƠM TẠO KNĐMST NHA TRANG
+navigation:
+- identifier: _projects
+  weight: 3
+  title: Hội viên

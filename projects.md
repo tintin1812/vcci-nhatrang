@@ -9,9 +9,5 @@ menu:
     url: "/projects/"
     weight: 1
     title: Dự Án
-  navigation:
-    identifier: _projects
-    weight: 3
-    title: Dự án
 
 ---
