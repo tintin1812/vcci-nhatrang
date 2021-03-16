@@ -1,6 +1,6 @@
 ---
 title: Welcome to VCCI Khánh Hòa
-date: 2021-03-16 00:00:00 +0700
+date: 2021-03-16T00:00:00.000+07:00
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
@@ -10,7 +10,7 @@ tags:
 - VCCI
 - VCCI VIETNAM
 layout: post
-banner_image: "/uploads/2021/03/16/con-thuyen-vcci.jpg"
+banner_image: ''
 
 ---
 ![](/uploads/2021/03/16/con-thuyen-vcci.jpg)
