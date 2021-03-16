@@ -1,14 +1,16 @@
 ---
-title: VCCI KHÁNH HÒA
+title: VP ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ CÔNG NGHIỆP VIỆT NAM TẠI KHÁNH HÒA
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2021/03/16/con-thuyen-vcci.jpg"
-heading: VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ CÔNG NGHIỆP VIỆT NAM TẠI KHÁNH HÒA
-sub_heading: ''
+heading: VCCI KHÁNH HÒA
+sub_heading: '"LIÊN KẾT DOANH NHÂN VIỆT"'
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
+hero_button:
+  text: '"  liên kết doanh nhân Việt   "'
 menu:
   navigation:
     identifier: _about
