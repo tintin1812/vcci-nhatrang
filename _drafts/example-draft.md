@@ -1,9 +1,10 @@
 ---
-title: Example Draft
+title: Example Draft 01
 layout: post
-date: 2018-01-19 00:00:00 +0000
-sub_heading: ''
-tags: []
+date: 2018-01-19T00:00:00.000+00:00
+sub_heading: Example Draft Sub Heading 01
+tags:
+- test
 related_posts: []
 
 ---
