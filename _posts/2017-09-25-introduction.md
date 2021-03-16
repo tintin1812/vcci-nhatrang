@@ -13,6 +13,8 @@ layout: post
 banner_image: "/uploads/2021/03/16/con-thuyen-vcci.jpg"
 
 ---
+![](/uploads/2021/03/16/con-thuyen-vcci.jpg)
+
 **GIỚI THIỆU CHUNG**
 
 **Phòng Thương mại và Công nghiệp Việt Nam (VCCI)** là tổ chức quốc gia tập hợp và đại diện cho cộng đồng doanh nghiệp, doanh nhân, người sử dụng lao động và các hiệp hội doanh nghiệp ở Việt Nam nhằm mục đích phát triển, bảo vệ và hỗ trợ cộng đồng doanh nghiệp, góp phần phát triển kinh tế – xã hội của đất nước, thúc đẩy các quan hệ hợp tác kinh tế, thương mại và khoa học – công nghệ với nước ngoài trên cơ sở bình đẳng và cùng có lợi, theo quy định của pháp luật.
