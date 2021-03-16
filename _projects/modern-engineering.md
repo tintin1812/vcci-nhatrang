@@ -16,14 +16,12 @@ slug: ''
 
 Để trở thành hội viên chính thức, tổ chức quan tâm cần gửi đến Phòng Thương mại và Công nghiệp Việt Nam tại Hà Nội hoặc các Chi nhánh, Văn phòng đại diện của Phòng hồ sơ đăng ký gia nhập gồm:
 
-1\. Đơn đăng ký làm hội viên chính thức Phòng Thương mại và Công nghiệp Việt Nam _(_ [_theo mẫu _](https://vcci.com.vn/uploads/Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc "Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc")_của Phòng)_
+1\. Đơn đăng ký làm hội viên chính thức Phòng Thương mại và Công nghiệp Việt Nam _(_ [_](https://vcci.com.vn/uploads/Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc "Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc")[theo mẫu](/mau "Theo Mau")[ _](https://vcci.com.vn/uploads/Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc "Don_gia_nhap_Hoi_vien_VCCI_new_2015.doc")_của Phòng)_
 
 2\. Giấy phép thành lập hoặc quyết định thành lập _(bản sao có công chứng)_
 
-2. Đăng ký kinh doanh _(bản sao có công chứng)_
-
-
-3. Mã số thuế doanh nghiệp _(bản sao có công chứng)_. Tài liệu giới thiệu về doanh nghiêp (nếu có).
+1. Đăng ký kinh doanh _(bản sao có công chứng)_
+2. Mã số thuế doanh nghiệp _(bản sao có công chứng)_. Tài liệu giới thiệu về doanh nghiêp (nếu có).
 
 Khi nhận được đơn, sẽ xét và thông báo cho tổ chức liên quan về quyết định chấp nhận. Trong vòng một tháng kể từ ngày nhận thông báo, tổ chức phải thực hiện đóng lệ phí gia nhập. Chỉ khi nào tổ chức đóng lệ phí gia nhập mới được coi là hội viên chính thức.
 
