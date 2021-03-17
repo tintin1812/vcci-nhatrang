@@ -7,6 +7,12 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: NSIC
+  label: TT ƯƠM TẠO NSIC
+  create: all
+  match: "*"
+  new_doc_ext: NSIC.md
+- type: directory
   path: _hoatdong
   label: HoatDong
   create: all
