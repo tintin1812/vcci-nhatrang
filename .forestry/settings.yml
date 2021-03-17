@@ -9,13 +9,17 @@ sections:
 - type: directory
   path: _xttm
   label: Xúc Tiến Thương Mại
-  create: all
+  create: documents
   match: "*"
+  templates:
+  - post
 - type: directory
   path: _nsic
   label: TT ƯƠM TẠO NSIC
-  create: all
+  create: documents
   match: "*"
+  templates:
+  - post
 - type: directory
   path: _hoatdong
   label: Hoạt Động
@@ -24,8 +28,10 @@ sections:
 - type: directory
   path: _hoivien
   label: Hội Viên
-  create: all
+  create: documents
   match: "*"
+  templates:
+  - post
 - type: jekyll-posts
   label: Posts
   create: all
