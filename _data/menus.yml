@@ -2,4 +2,4 @@
 navigation:
 - weight: 2
   title: GIỚI THIỆU
-  url: "/gioithieu"
+  url: "/about"
