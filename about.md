@@ -1,7 +1,7 @@
 ---
 title: VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ CÔNG NGHIỆP VIỆT NAM TẠI KHÁNH HÒA
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2021/03/16/con-thuyen-vcci.jpg"
+banner_image: ''
 heading: VCCI KHÁNH HÒA
 sub_heading: ''
 layout: landing-page
