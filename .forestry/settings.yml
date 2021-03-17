@@ -4,10 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: HoatDong
+- type: directory
+  path: _hoatdong
   label: HoatDong
-  match: "**/*"
+  match: "*"
   read_only: false
 - type: heading
   label: Content
