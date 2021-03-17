@@ -26,8 +26,3 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: name_of_collection
-  label: Name of collection
-  type: text
-  hidden: false
-  default: 'projects'

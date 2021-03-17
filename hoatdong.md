@@ -1,6 +1,6 @@
 ---
 title: Hoạt Động
-layout: projects
+layout: hoatdong
 description: Hoạt Động
 publish_date: '2017-11-01T03:00:00.000+00:00'
 name_of_collection: hoatdong
