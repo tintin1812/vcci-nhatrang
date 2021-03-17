@@ -1,8 +1,8 @@
 ---
-title: VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ CÔNG NGHIỆP VIỆT NAM TẠI KHÁNH HÒA
+title: VCCI Khánh Hòa
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
-heading: ''
+heading: VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ CÔNG NGHIỆP VIỆT NAM TẠI KHÁNH HÒA
 sub_heading: ''
 layout: landing-page
 textline: "    VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ VIỆT NAM TẠI KHÁNH HÒA"
