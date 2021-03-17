@@ -8,7 +8,6 @@ layout: landing-page
 textline: "    VĂN PHÒNG ĐẠI DIỆN PHÒNG THƯƠNG MẠI VÀ VIỆT NAM TẠI KHÁNH HÒA"
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
-partners: []
 show_news: false
 
 ---
