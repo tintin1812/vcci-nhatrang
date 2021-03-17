@@ -1,8 +1,8 @@
 ---
-heading: Trung Tâm Ươm Tạo
-sub_heading: Trung Tâm Ươm Tạo
+heading: Xúc Tiến TM
+sub_heading: Xúc Tiến TM
 layout: home
-title: Trung Tâm Ươm Tạo
+title: Xúc Tiến TM
 banner_image: ''
 hero_button:
   text: ''
