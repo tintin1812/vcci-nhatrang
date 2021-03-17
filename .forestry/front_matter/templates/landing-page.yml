@@ -79,7 +79,7 @@ fields:
   hidden: true
   default: home
 pages:
-- ho-t-d-ng.md
+- hoat-dong.md
 - hoi-vien.md
 - index.md
 - trung-tam-uom-tao.md
