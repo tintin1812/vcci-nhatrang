@@ -20,7 +20,7 @@ sections:
   new_doc_ext: NSIC.md
 - type: directory
   path: _hoatdong
-  label: HoatDong
+  label: Hoạt Động
   create: all
   match: "*"
 - type: jekyll-posts
