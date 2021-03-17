@@ -7,17 +7,15 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: XTTM
+  path: _xttm
   label: Xúc Tiến Thương Mại
   create: all
   match: "*"
-  new_doc_ext: XTTM.md
 - type: directory
-  path: NSIC
+  path: _nsic
   label: TT ƯƠM TẠO NSIC
   create: all
   match: "*"
-  new_doc_ext: NSIC.md
 - type: directory
   path: _hoatdong
   label: Hoạt Động
