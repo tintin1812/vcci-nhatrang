@@ -12,5 +12,10 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    identifier: _projects
+    weight: 3
+    title: 'HỘI VIÊN '
 
 ---

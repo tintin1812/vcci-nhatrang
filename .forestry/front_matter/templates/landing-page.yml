@@ -79,8 +79,8 @@ fields:
   hidden: true
   default: home
 pages:
-- h-i-vien.md
 - ho-t-d-ng.md
+- hoi-vien.md
 - index.md
 - trung-tam-uom-tao.md
 - xuc-tien-tm.md
