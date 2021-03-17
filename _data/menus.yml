@@ -1,8 +1,8 @@
 ---
 navigation:
-- weight: 6
-  title: XÚC TIẾN TM
-- weight: 5
-  title: TT ƯƠM TẠO NSIC
 - weight: 4
   title: HỘI VIÊN
+- weight: 5
+  title: TT ƯƠM TẠO NSIC
+- weight: 6
+  title: XÚC TIẾN TM

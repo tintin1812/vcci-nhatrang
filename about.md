@@ -13,7 +13,7 @@ show_news: false
 menu:
   footer:
     identifier: _about
-    weight: 3
+    weight: 4
     title: Giới Thiệu
 
 ---

@@ -7,8 +7,8 @@ sections:
 - type: directory
   path: _hoatdong
   label: HoatDong
+  create: all
   match: "*"
-  read_only: false
 - type: heading
   label: Content
 - type: jekyll-posts
