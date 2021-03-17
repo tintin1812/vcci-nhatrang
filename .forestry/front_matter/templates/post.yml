@@ -38,5 +38,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/example-draft-02.md
