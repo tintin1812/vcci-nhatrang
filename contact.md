@@ -8,7 +8,7 @@ show_staff: true
 menu:
   footer:
     identifier: _about
-    weight: 4
+    weight: 6
     title: Liên Hệ
 
 ---
