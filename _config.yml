@@ -30,6 +30,18 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  hoatdong:
+    output: true
+    permalink: "/hoatdong/:path/"
+  xttm:
+    output: true
+    permalink: "/xttm/:path/"
+  hoivien:
+    output: true
+    permalink: "/hoivien/:path/"
+  nsic:
+    output: true
+    permalink: "/nsic/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
