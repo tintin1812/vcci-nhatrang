@@ -21,6 +21,11 @@ sections:
   label: Hoạt Động
   create: all
   match: "*"
+- type: directory
+  path: _hoivien
+  label: Hội Viên
+  create: all
+  match: "*"
 - type: jekyll-posts
   label: Posts
   create: all
