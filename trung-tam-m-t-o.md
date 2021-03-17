@@ -1,8 +1,8 @@
 ---
-heading: Hoạt Động
-sub_heading: Hoạt Động
+heading: Trung Tâm Ươm Tạo
+sub_heading: Trung Tâm Ươm Tạo
 layout: home
-title: Hoạt Động
+title: Trung Tâm Ươm Tạo
 banner_image: ''
 hero_button:
   text: ''
@@ -12,5 +12,6 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+published: false
 
 ---
