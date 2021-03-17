@@ -27,7 +27,7 @@ fields:
   hidden: false
   default: ''
 - name: name_of_collection
-  label: Slug
+  label: Name of collection
   type: text
   hidden: false
   default: 'projects'
