@@ -53,5 +53,3 @@ Hoạt đồng vì sự phát triển bền vững của cộng đồng, doanh n
 6\. Tôn vinh khen thưởng doanh nghiệp
 
 7\. Xây dựng hệ sinh thái khởi nghiệp tại địa phương và khu vực.
-
-….
