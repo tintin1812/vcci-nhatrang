@@ -79,4 +79,6 @@ fields:
   hidden: true
   default: home
 pages:
+- h-i-vien.md
+- ho-t-d-ng.md
 - index.md
