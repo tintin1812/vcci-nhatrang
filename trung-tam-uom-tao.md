@@ -13,6 +13,9 @@ show_news: false
 partners: []
 show_staff: false
 menu:
+  footer:
+    weight: 4
+    title: TT ƯƠM TẠO KNĐMST NHA TRANG
   navigation:
     weight: 5
     title: TT ƯƠM TẠO NSIC
