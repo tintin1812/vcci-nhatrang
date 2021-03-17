@@ -11,6 +11,10 @@ tags:
 - VCCI VIETNAM
 layout: post
 banner_image: ''
+menu:
+  navigation:
+    weight: 2
+    title: GIỚI THIỆU
 
 ---
 ![](/uploads/2021/03/16/con-thuyen-vcci.jpg)
