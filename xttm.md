@@ -10,5 +10,6 @@ menu:
     weight: 1
   navigation:
     weight: 6
+    title: XÚC TIẾN TM
 
 ---

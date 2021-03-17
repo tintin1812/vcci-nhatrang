@@ -8,7 +8,7 @@ menu:
     identifier: _projects
     weight: 4
   navigation:
-    weight: 5
+    weight: 3
     title: HOẠT ĐỘNG
 
 ---

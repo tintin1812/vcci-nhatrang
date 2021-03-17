@@ -9,6 +9,6 @@ menu:
     url: "/hoivien/"
     weight: 2
   navigation:
-    weight: 3
+    weight: 4
 
 ---
