@@ -26,3 +26,8 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: name_of_collection
+  label: Slug
+  type: text
+  hidden: false
+  default: 'projects'
