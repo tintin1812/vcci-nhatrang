@@ -10,11 +10,6 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 partners: []
 show_news: false
-menu:
-  footer:
-    identifier: _about
-    weight: 4
-    title: Giới Thiệu
 
 ---
 ![](/uploads/2021/03/16/con-thuyen-vcci.jpg)
