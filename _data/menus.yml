@@ -3,5 +3,7 @@ footer:
 - weight: 4
   title: TT ƯƠM TẠO KNĐMST NHA TRANG
 navigation:
-- weight: 7
+- weight: 5
   title: 'LIÊN HỆ '
+- weight: 4
+  title: 'XÚC TIẾN TM '
