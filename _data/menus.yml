@@ -1,1 +1,12 @@
---- {}
+---
+navigation:
+- weight: 6
+  title: XÚC TIẾN TM
+- weight: 5
+  title: TT ƯƠM TẠO NSIC
+- weight: 4
+  title: HỘI VIÊN
+- weight: 3
+  title: HOẠT ĐỘNG
+- weight: 2
+  title: GIỚI THIỆU
