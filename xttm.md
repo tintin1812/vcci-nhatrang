@@ -1,6 +1,6 @@
 ---
 title: XÚC TIẾN THƯƠNG MẠI
-layout: projects
+layout: xttm
 description: XÚC TIẾN THƯƠNG MẠI
 publish_date: '2017-11-01T03:00:00.000+00:00'
 menu:
