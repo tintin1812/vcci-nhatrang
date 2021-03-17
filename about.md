@@ -11,10 +11,6 @@ show_staff: false
 partners: []
 show_news: false
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
-    title: 'GIỚI THIỆU '
   footer:
     identifier: _about
     weight: 3
